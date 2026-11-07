@@ -1,0 +1,1 @@
+Set up this repository as a cloud-only image-design workspace. Read AGENTS.md and PROJECT_BRIEF.md. Install Python 3 and requirements.txt. Run python3 scripts/verify_package.py, then python3 scripts/render_board.py. No API keys, Mac access, or image-generation service are required. Do not change the reference files. Report the checks and prepare the environment for publishing.

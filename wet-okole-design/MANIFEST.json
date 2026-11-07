@@ -1,0 +1,20 @@
+{
+  "sha256": {
+    ".gitignore": "a445cf0dd26a9136093ca8ac06d35ee2b03adfd7ac7bccbb635674a689760e51",
+    "AGENTS.md": "ad997c0ab90c0235d2b0f15344b76a9a15885a86d311875ffbf05189d6bb33ca",
+    "CLOUD_SETUP_PROMPT.txt": "ffb800b9c39a3f1d5083e9d14d76e4787547f6d026e6cc8e04edb36c181f502a",
+    "PROJECT_BRIEF.md": "606b2aff3a57e80a67d75cffe7c80becfc5c460f959263c96b04ece5306e80ba",
+    "README.md": "38ec81c772d5b265788ff7e9da69c672c3a9ab4a787fa7e2ff0361034935231b",
+    "START_HERE_PROMPT.txt": "f37c3debff17d459fc2ebd13cc9f7715807418be843da00d1bc1b3e2e7f081a4",
+    "assets/blank-charcoal-board.png": "e8f1b8bcab3ecd9e5f1f8b6c6a38d66a23e0cb986eb6dcb4674f0dd75c68cd43",
+    "assets/blank-charcoal-seats.png": "07f01ddaff6ffb733b5ffef1b014b2a4a0db43f67da816671a04cd3b9ccf7994",
+    "assets/original-color-emblem.png": "1fb52d4f003cff3efe265c976110eef5c63f977c0023d249c7816bce9847a101",
+    "assets/original-contour-patch.png": "85bff8a0c104744cf1e23f685f42f319bcc4ab2be907d89ac692fa5ef7d7e214",
+    "current/approved-charcoal-board.png": "a210c6183de4c7bd21b687e2ed8c43317ba5865e3c1ee9944ca9d316b5608e77",
+    "current/latest-outer-circle-board.png": "b052d7f917af9967a73caa1be724b48ab55b2c16a8700084be6162b43d6a8501",
+    "current/latest-outer-circle-emblem.png": "5984ca2ed4471b287dcb582c055f4bf36a82a43d1f089b956892ced43eafbde1",
+    "requirements.txt": "c07ff256a990ca5cecef380d906f1f066aca761a5095f2c664e3fad3b40d4949",
+    "scripts/render_board.py": "2f9f7744b37738ae2e0cf5db98fe4f170d644455b1f809dd6e08a2613785af91",
+    "scripts/verify_package.py": "5fe9eda065719cc0907552cdf2416a2fc07e8bdf3da579fb4ce1f8f0d00980e4"
+  }
+}
